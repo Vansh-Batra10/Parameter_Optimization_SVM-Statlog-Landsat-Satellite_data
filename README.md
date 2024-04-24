@@ -27,7 +27,7 @@ The table below summarizes the best parameters and accuracy obtained for each sa
 | 10            | 0.242   | linear | 0.446 | 81.87    |
 
 ### Convergence Graph
-![Convergence Graph](convergence_graph.png)
+![Convergence Graph](convergence_graph.jpeg)
 
 ## Conclusion
 The random search optimization approach successfully identified the best SVM parameters for the classification task. We identified that sample 9 gave the best accuracy and its convergence graph demonstrates the relationship between the number of iterations and accuracy, indicating the convergence of the optimization process. 
